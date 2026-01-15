@@ -11,3 +11,4 @@ Slika modela:
 ![image alt](https://github.com/amarderzic/slike/blob/c32a2f5c49f01528b1a7910f2b3304ddcd5740fc/avtosalon.png)
 Seminarsko nalogo sem zaključil še v Wordu v katerem sem naredil povzetek, kazalo, opis problema, uporabniške zahteve, opis konceptualnega modela, opis logičnega modela, dodal sem še primere za vsako tabelo in zaključek.
 Moj Word file lahko najdete v tem repozitoriju če si ga hočete ogledati.😊
+naučil sem se kako izbrat tabele in atribute katere potrebujem, naučil sem se še pravilno definirati razmerja in kako imeti skladne tuje ključe s primarnimi.
