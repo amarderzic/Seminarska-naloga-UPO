@@ -7,4 +7,5 @@ Naloge sem se lotil v aplikaciji DIA portable v kateri sem izdelal konceptualni 
 Slika konceptualnega modela:
 ![image alt](https://github.com/amarderzic/slike/blob/a6a3ae5c9910e0f5f779ff517e0c6c2d2c08f8c1/diamodel.png)
 Potem sem izdelal model v aplikaciji DataModeler.
-Slika modela
+Slika modela:
+![image alt](
